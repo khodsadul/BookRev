@@ -5,7 +5,7 @@ class DevelopmentConfig:
     MAIL_SERVER = "smtp.googlemail.com"
     MAIL_PORT = 587
     MAIL_USE_TLS = True
-    MAIL_USERNAME = "sadulmatrix333@gmail.com"
+    MAIL_USERNAME = "youremail@gmail.com"
     MAIL_PASSWORD = "Your password"
     MAIL_DEFAULT_SENDER = "sadulmatrix333@gmail.com"
 
