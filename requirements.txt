@@ -1,0 +1,6 @@
+Flask
+flask-sqlalchemy
+sqlalchemy
+flask_marshmallow
+psycopg2
+flask_mail
