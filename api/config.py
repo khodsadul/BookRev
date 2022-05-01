@@ -6,6 +6,6 @@ class DevelopmentConfig:
     MAIL_PORT = 587
     MAIL_USE_TLS = True
     MAIL_USERNAME = "sadulmatrix333@gmail.com"
-    MAIL_PASSWORD = "Enter11@#"
+    MAIL_PASSWORD = "Your password"
     MAIL_DEFAULT_SENDER = "sadulmatrix333@gmail.com"
 
