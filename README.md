@@ -7,6 +7,13 @@ A Flask Project for managing book review and rattings. Following functionalities
 5. Add a new book.
 6. Add a rating or comment on an existing book.
 
+### Important Technical Features
+1. Sending Email for registeration and forget password.
+2. JWT based user authentication and authorization.
+3. Rest Api Creation.
+4. Swagger UI.
+5. Application of SQLAlachemy library with PostgreSQL
+
 ### Available Endpoints
 ![image](https://user-images.githubusercontent.com/69482350/166149915-47742df9-9681-45d5-956a-1e10dd7c9069.png)
 
